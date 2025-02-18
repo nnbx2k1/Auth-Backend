@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/nnbx2k1/Auth-Backend/issues"
   },
-  "homepage": "https://github.com/nnbx2k1/Auth-Backend#readme"
+  "homepage": "https://github.com/nnbx2k1/Auth-Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1"
+  }
 }
