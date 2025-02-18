@@ -1,0 +1,20 @@
+{
+  "name": "auth-backend",
+  "version": "1.0.0",
+  "description": "an authentification system for a game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnbx2k1/Auth-Backend.git"
+  },
+  "author": "Bakhti Nabil Abdelkafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnbx2k1/Auth-Backend/issues"
+  },
+  "homepage": "https://github.com/nnbx2k1/Auth-Backend#readme"
+}
